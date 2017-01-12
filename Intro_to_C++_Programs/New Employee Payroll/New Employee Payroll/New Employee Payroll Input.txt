@@ -1,0 +1,12 @@
+100 Smith          James          40     15.00
+101 Johnson        Karen          20     12.75      
+102 Herbert        Mark           40     15.75      
+103 Loring         Charles        50     13.00     
+104 Henderson      Marsha         25     17.25     
+105 Gillings       Crystal        50     16.35     
+200 Adams          Michael        30     15.75      
+201 Lin            Hai            35     17.00       
+203 Jenson         Fred           20     12.00       
+204 Abbott         Donna          40     13.75       
+205 Samson         Susan          45     14.00       
+206 Govinda        Sri            45     15.50       
